@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Roger Castells Graells
 
 # Full name (for SEO)
 first_name: Alice
@@ -27,7 +27,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Bioengineering
   - Information Retrieval
 
 # Education to show in About widget
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Roger Castells Graells is a postdoctoral researcher at the professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Roger Castells Graells is a postdoctoral researcher at the rofessor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
