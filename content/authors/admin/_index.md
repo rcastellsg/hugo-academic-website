@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_RogerCastellsGraells.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-I am a bioengineer and biochemist with over 10 years of research experience. I am currently a postdoctoral researcher in the lab of Prof. Todd Yeates at the University of California Los Angeles (UCLA). I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of Prof. George Lomonossoff.
+I am a bioengineer and biochemist with over 10 years of research experience. I am currently a postdoctoral researcher in the lab of Prof. Todd Yeates at the University of California Los Angeles (UCLA), where I combine protein design with cryo-electron microscopy (cryo-EM) to develop new imaging and biomedical tools. My research interests lie at the interface of structural, molecular, cellular, and synthetic biology. I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of Prof. George Lomonossoff. During my doctoral training, I investigated the details of the dynamic conformational changes that occur during the maturation cycle of a eukaryotic virus, using high-resolution cryo-EM.
 {style="text-align: justify;"}

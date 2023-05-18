@@ -37,7 +37,7 @@ abstract: Many virus capsids undergo exquisitely choreographed maturation proces
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s42003-021-02134-w
+url_pdf: uploads/CastellsGraells-2021-CommsBio.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
