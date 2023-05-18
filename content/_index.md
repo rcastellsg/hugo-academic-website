@@ -27,6 +27,19 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
+
+  - block: collection
+    content:
+      title: Featured Publications and Preprints
+      subtitle: Full list of publications --> https://roger.castellsgraells.com/publication
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: compact
+
   - block: experience
     id: experience
     content:
@@ -41,7 +54,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Postdoctoral Researcher
-          company: University of California Los Angeles
+          company: University of California Los Angeles (UCLA)
           company_url: ''
           company_logo: logo_UCLA_blue
           location: California, US
@@ -54,13 +67,50 @@ sections:
               # * Modelling
               # * Deploying
         - title: Postdoctoral Researcher
-          company: John Innes Centre UK
+          company: John Innes Centre (JIC)
           company_url: ''
-          company_logo: org-x
+          company_logo: logo_jic
           location: UK
-          date_start: '2020-01-10'
-          date_end: '2019-10-01'
+          date_start: '2019-10-01'
+          date_end: '2020-01-10'
           description: 
+
+        - title: PhD Student - John Innes Foundation Fellowship
+          company: John Innes Centre (JIC)
+          company_url: ''
+          company_logo: logo_jic
+          location: UK
+          date_start: '2015-10-01'
+          date_end: '2019-09-30'
+          description: 
+
+        - title: Research Intern
+          company: Centre for Research in Agricultural Genomics (CRAG)
+          company_url: ''
+          company_logo: logo_crag
+          location: Spain
+          date_start: '2014-10-01'
+          date_end: '2015-02-28'
+          description: 
+
+        - title: Research Intern - Amgen Scholars Fellowship
+          company: Ludwig-Maximilians Universität München (LMU)
+          company_url: ''
+          company_logo: logo_lmu
+          location: Germany
+          date_start: '2014-07-01'
+          date_end: '2014-09-10'
+          description: 
+
+        - title: Research Intern - BUSS Fellowship
+          company: University of Zurich (UZH)
+          company_url: ''
+          company_logo: logo_UZH
+          location: Switzerland
+          date_start: '2013-07-01'
+          date_end: '2013-08-31'
+          description: 
+
     design:
       columns: '2'
   # - block: accomplishments
@@ -175,17 +225,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
-    content:
-      title: Featured Publications and Preprints
-      subtitle: Full list of publications --> https://roger.castellsgraells.com/publication
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: compact
+
 
 
   # - block: collection
