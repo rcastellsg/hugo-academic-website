@@ -45,6 +45,14 @@ permalinks:
 disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  #if the "Error: from config: failed to resolve output format "headers" from site config" appears
+  #then comment the home: [HTML, RSS, JSON, WebAppManifest, headers, redirects] and uncomment home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects]
+  #then type in the command line:
+  #hugo mod clean
+  #hugo mod get
+  #then comment back home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects] and ucomment home: [HTML, RSS, JSON, WebAppManifest, headers, redirects] and type in the command line
+  #hugo server
+  # home: [] #[HTML, RSS  , JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
