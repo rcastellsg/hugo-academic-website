@@ -49,6 +49,10 @@ url_pdf: uploads/Thuenemann-2021-Viruses.pdf
 # url_source: ''
 # url_video: ''
 
+ags:
+- Source Themes
+featured: true
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
