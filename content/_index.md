@@ -60,7 +60,7 @@ sections:
           location: California, US
           date_start: '2020-01-19'
           date_end: ''
-          description: Computational design and characterization of novel protein assemblies as imaging scaffolds for structural biology (cryo-EM) and biomedical applications in the lab of Prof. Todd Yeates.
+          description: Computational design and characterization of novel protein assemblies as imaging scaffolds for structural biology (cryo-EM) and *de novo* design of protein assemblies and nanomachines for biomedical applications (using AI-based computational tools) in the lab of Prof. Todd Yeates.
           # description: |2-
               # Responsibilities include:
 
