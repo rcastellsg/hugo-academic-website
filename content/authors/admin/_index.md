@@ -28,7 +28,7 @@ bio: My research interests include protein design, cryo-EM and virology.
 interests:
   - Biochemistry
   - Structural Biology
-  - Bioengineering - Protein Design
+  - Synthetic Biology - Protein Design
   - Virology
 
 # Education to show in About widget
@@ -37,7 +37,7 @@ education:
     - course: PhD in Biochemistry
       institution: John Innes Centre (UK)
       year: 2019
-    - course: BSc in Bioengineering
+    - course: BSc in Biotechnology
       institution: Auntonomous University of Barcelona (Spain)
       year: 2015
 
@@ -78,6 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a bioengineer and biochemist with over 10 years of research experience. 
-I am currently a postdoctoral researcher in the lab of Prof. Todd Yeates at the University of California Los Angeles (UCLA), where I combine protein design with structural biology to develop new imaging tools to study small proteins (<50 kDa) with cryo-electron microscopy (cryo-EM) using designed protein cages as scaffolds. We are also designing protein assemblies and nanomachines for biomedical applications. My research interests lie at the interface of structural, molecular, cellular, and synthetic biology. I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of Prof. George Lomonossoff. During my doctoral training, I investigated the details of the dynamic conformational changes that occur during the maturation cycle of a eukaryotic virus, using high-resolution cryo-EM.
+I am a biotechnologist and biochemist with over 10 years of research experience. 
+I am currently a postdoctoral researcher in the lab of [Prof. Todd Yeates](https://yeateslab.mbi.ucla.edu) at the University of California Los Angeles (UCLA), where I combine protein design with structural biology to develop new imaging tools to study small proteins (<50 kDa) with cryo-electron microscopy (cryo-EM) using designed protein cages as scaffolds. We are also designing protein assemblies and nanomachines for biomedical applications. My research interests lie at the interface of structural, molecular, cellular, and synthetic biology. I received my undergraduate degree in Bioengineering from the Autonomous University of Barcelona (Spain) in 2015, and earned a PhD in Biochemistry from the John Innes Centre (UK) in 2019 under the mentorship of [Prof. George Lomonossoff](https://www.jic.ac.uk/people/george-lomonosoff/). During my doctoral training, I investigated the details of the dynamic conformational changes that occur during the maturation cycle of a eukaryotic virus, using high-resolution cryo-EM.
 {style="text-align: justify;"}
