@@ -24,7 +24,7 @@ publishDate: "2017-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Archives of Virology*, 166, 1547-1563"
+publication: "*Archives of Virology*, 166 (6), 1547-1563"
 publication_short: ""
 
 abstract: Virus maturation is found in all animal viruses and dsDNA bacteriophages that have been studied. It is a programmed process, cued by cellular environmental factors, that transitions a noninfectious, initial assembly product (provirus) to an infectious particle (virion). Nudaurelia capensis omega virus (NωV) is an ssRNA insect virus with T=4 quasi-symmetry. Over the last 20 years, NωV virus-like particles (VLPs) have been an attractive model for the detailed study of maturation. The novel feature of the system is the progressive transition from procapsid to capsid controlled by pH. Homogeneous populations of maturation intermediates can be readily produced at arbitrary intervals by adjusting the pH between 7.6 and 5.0. These intermediates were investigated using biochemical and biophysical methods to create a stop-frame transition series of this complex process. The studies reviewed here characterized the large-scale subunit reorganization during maturation (the particle changes size from 48 nm to 41 nm) as well as the mechanism of a maturation cleavage, a time-resolved study of cleavage site formation, and specific roles of quasi-equivalent subunits in the release of membrane lytic peptides required for cellular entry.
