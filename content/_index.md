@@ -31,7 +31,7 @@ sections:
   - block: collection
     content:
       title: Featured Publications and Preprints
-      subtitle: Full list of publications --> https://roger.castellsgraells.com/publication
+      subtitle: Full list of publications --> https://www.roger.castellsgraells.com/publication
       filters:
         folders:
           - publication
