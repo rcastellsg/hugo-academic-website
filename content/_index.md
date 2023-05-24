@@ -83,9 +83,10 @@ sections:
           location: UK
           date_start: '2015-10-01'
           date_end: '2019-09-30'
-          description: -**PhD Project:** Study of virus maturation using transient expression systems and biophysical and structural methods, including cryo-EM, in the lab of Prof. George Lomonossoff (PhD project, John Innes Centre, June 2016 – September 2019). 
+          description: -**PhD Project:** Study of virus maturation using transient expression systems and biophysical and structural methods, including cryo-EM, in the lab of Prof. George Lomonossoff (PhD project, John Innes Centre, June 2016 - September 2019). <br />
+            -**Thesis:** [Viruses in motion - maturation of an insect virus-like particle – a nanomachine](https://ueaeprints.uea.ac.uk/id/eprint/73477/1/CastellsGraells-Roger-2019-PhD-Thesis-Final-Submission.pdf)
              <br /> -**Collaborations with:**  <br />• Prof. Jack Johnson (The Scripps Research Institute, USA) <br /> • Prof. Neil Ranson (The Astbury Centre for Structural Molecular Biology, UK)  <br />• Prof. Tatiana Domitrovic (Universidade Federal do Rio de Janeiro, Brazil). <br />
-              -**Rotation Projects:** <br />• Study of the alteration of host vesicular trafficking by an effector from *Phytophthora infestans* and study of the deletion of a gene cluster in tomato with CRISPR/Cas9 in the lab of Prof. Sophien Kamoun (Rotation 3, The Sainsbury Laboratory, March – May 2016). <br />• Study of starch synthesis in wheat grains in the lab of Prof. Alison Smith (Rotation 2, John Innes Centre, January – March 2016).<br /> • Production of engineered mosaic virus-like particles from turnip crinkle virus (TCV) in plants in the lab of Prof. George Lomonossoff (Rotation 1, John Innes Centre, October – December 2015).
+              -**Rotation Projects:** <br />• Study of the alteration of host vesicular trafficking by an effector from *Phytophthora infestans* and study of the deletion of a gene cluster in tomato with CRISPR/Cas9 in the lab of Prof. Sophien Kamoun (Rotation 3, The Sainsbury Laboratory, March - May 2016). <br />• Study of starch synthesis in wheat grains in the lab of Prof. Alison Smith (Rotation 2, John Innes Centre, January - March 2016).<br /> • Production of engineered mosaic virus-like particles from turnip crinkle virus (TCV) in plants in the lab of Prof. George Lomonossoff (Rotation 1, John Innes Centre, October - December 2015).
 
         - title: Research Intern
           company: Centre for Research in Agricultural Genomics (CRAG)
