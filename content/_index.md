@@ -60,6 +60,7 @@ sections:
           location: California, US
           date_start: '2020-01-19'
           date_end: ''
+          description: Computational design and characterization of novel protein assemblies as imaging scaffolds for structural biology (cryo-EM) and biomedical applications in the lab of Prof. Todd Yeates.
           # description: |2-
               # Responsibilities include:
 
@@ -73,7 +74,7 @@ sections:
           location: UK
           date_start: '2019-10-01'
           date_end: '2020-01-10'
-          description: 
+          description: Study and production of virus-like particles for biotechnology applications like vaccines. Horizon 2020 Pharma Factory project in the lab of Prof. George Lomonossoff.
 
         - title: PhD Student - John Innes Foundation Fellowship
           company: John Innes Centre (JIC)
@@ -82,7 +83,9 @@ sections:
           location: UK
           date_start: '2015-10-01'
           date_end: '2019-09-30'
-          description: 
+          description: -**PhD Project:** Study of virus maturation using transient expression systems and biophysical and structural methods, including cryo-EM, in the lab of Prof. George Lomonossoff (PhD project, John Innes Centre, June 2016 – September 2019). 
+             <br /> -**Collaborations with:**  <br />• Prof. Jack Johnson (The Scripps Research Institute, USA) <br /> • Prof. Neil Ranson (The Astbury Centre for Structural Molecular Biology, UK)  <br />• Prof. Tatiana Domitrovic (Universidade Federal do Rio de Janeiro, Brazil). <br />
+              -**Rotation Projects:** <br />• Study of the alteration of host vesicular trafficking by an effector from *Phytophthora infestans* and study of the deletion of a gene cluster in tomato with CRISPR/Cas9 in the lab of Prof. Sophien Kamoun (Rotation 3, The Sainsbury Laboratory, March – May 2016). <br />• Study of starch synthesis in wheat grains in the lab of Prof. Alison Smith (Rotation 2, John Innes Centre, January – March 2016).<br /> • Production of engineered mosaic virus-like particles from turnip crinkle virus (TCV) in plants in the lab of Prof. George Lomonossoff (Rotation 1, John Innes Centre, October – December 2015).
 
         - title: Research Intern
           company: Centre for Research in Agricultural Genomics (CRAG)
@@ -91,7 +94,7 @@ sections:
           location: Spain
           date_start: '2014-10-01'
           date_end: '2015-02-28'
-          description: 
+          description: Study of the structure of plant genomes looking at elements like transposons with bioinformatic tools. Mentored by Dr. Cristina Vives, Dr. Pere Puigdomènech and Dr. Josep M. Casacuberta.  
 
         - title: Research Intern - Amgen Scholars Fellowship
           company: Ludwig-Maximilians Universität München (LMU)
@@ -100,7 +103,7 @@ sections:
           location: Germany
           date_start: '2014-07-01'
           date_end: '2014-09-10'
-          description: 
+          description: Study of chloroplast membrane proteins, OEP21 and Tic-22, with Dr. Bettina Bölter in the lab of Prof. Jürgen Soll.
 
         - title: Research Intern - BUSS Fellowship
           company: University of Zurich (UZH)
@@ -109,7 +112,7 @@ sections:
           location: Switzerland
           date_start: '2013-07-01'
           date_end: '2013-08-31'
-          description: 
+          description: Study of the durable disease resistance gene Lr34 from wheat with Dr. Simon Krattinger in the lab of Prof. Beat Keller.
 
     design:
       columns: '2'
