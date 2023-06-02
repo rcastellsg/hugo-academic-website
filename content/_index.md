@@ -95,7 +95,7 @@ sections:
           location: Spain
           date_start: '2014-10-01'
           date_end: '2015-02-28'
-          description: Study of the structure of plant genomes looking at elements like transposons with bioinformatic tools. Mentored by Dr. Cristina Vives, Dr. Pere Puigdomènech and Dr. Josep M. Casacuberta.  
+          description: Study of the structure of plant genomes looking at elements like transposons with bioinformatic tools. Mentored by Dr. Cristina Vives, Prof. Pere Puigdomènech and Prof. Josep M. Casacuberta.  
 
         - title: Research Intern - Amgen Scholars Fellowship
           company: Ludwig-Maximilians Universität München (LMU)
