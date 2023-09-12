@@ -35,7 +35,7 @@ summary: We use molecular engineering techniques to rigidify an imaging scaffold
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 links:
 - name: BioRxiv

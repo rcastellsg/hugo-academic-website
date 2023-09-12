@@ -43,7 +43,7 @@ url_pdf: uploads/Contreras-2015.pdf
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

@@ -45,7 +45,7 @@ url_pdf: "https://academic.oup.com/plphys/article-pdf/182/1/455/37277196/plphys\
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

@@ -45,7 +45,7 @@ url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/tpj.15246"
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 
