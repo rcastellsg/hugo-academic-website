@@ -46,7 +46,7 @@ url_pdf: "https://wires.onlinelibrary.wiley.com/doi/pdf/10.1002/wnan.1447"
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

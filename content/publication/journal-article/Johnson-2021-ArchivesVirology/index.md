@@ -44,7 +44,7 @@ url_pdf: uploads/Johnson-2021-ArchivesVirology.pdf
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

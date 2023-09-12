@@ -42,7 +42,7 @@ url_pdf: uploads/CastellsGraells-2018-MethodsMolecularBiology.pdf
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

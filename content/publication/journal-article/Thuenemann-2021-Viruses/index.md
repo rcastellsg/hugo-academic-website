@@ -49,7 +49,7 @@ url_pdf: uploads/Thuenemann-2021-Viruses.pdf
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

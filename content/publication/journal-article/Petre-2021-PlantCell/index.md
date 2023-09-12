@@ -55,7 +55,7 @@ url_pdf: "https://academic.oup.com/plcell/article-pdf/33/5/1447/38859399/koab069
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 

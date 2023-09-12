@@ -46,7 +46,7 @@ url_pdf: "https://journals.asm.org/doi/pdf/10.1128/AEM.01297-20"
 # url_source: ''
 # url_video: ''
 
-ags:
+tags:
 - Source Themes
 featured: true
 
